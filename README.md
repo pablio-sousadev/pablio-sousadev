@@ -22,7 +22,7 @@
 <br>
 
 ### Conecte-se comigo
-
+<br>
 <div>
   <a href="www.linkedin.com/in/páblio-de-sousa-6387972a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=A55CFF" target="_blank"></a>
   <a href="mailto:pabliosousa1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090014?style=for-the-badge&logo=gmail&logoColor=A55CFF" target="_blank"></a>
@@ -31,17 +31,20 @@
 <br>
 
 ### GitHub Stats
-
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pablio-sousadev&hide_title=true&hide=issues&show_icons=true&rank_icon=github&count_private=true&hide_border=false&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" /> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablio-sousadev&hide=jupyter%20notebook,tex&layout=compact&border_color=A55CFF&title_color=F4F4F6&icon_color=F4F4F6&text_color=A55CFF&bg_color=090014" />
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablio-sousadev&theme=dark&hide_border=true&background=090014&stroke=A55CFF&ring=A55CFF&fire=A55CFF&currStreakLabel=A55CFF&sideNums=F4F4F6&sideLabels=F4F4F6&dates=F4F4F6" alt="pablio-sousadev streak" />
 </div>
 
+### Conquistas
 <br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pablio-sousadev&theme=darkhub&no-frame=true&margin-w=15&row=1" />
+</div>
 
-### 👨🏽‍💻 Linguagens e Ferramentas
-
-<div>
+### Linguagens e Ferramentas
+<br>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
   </a>
