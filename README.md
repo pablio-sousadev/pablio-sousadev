@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <br>
   
   Please replace **Pablio** and **Systems Analysis and Development** with your information.
@@ -23,13 +23,9 @@
 
 ### Conecte-se comigo
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/Pablio de Sousa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=A55CFF&color=090014" target="_blank">
-  </a> 
-  <a href="mailto:pabliosousa1990@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=A55CFF&color=090014" target="_blank">
-  </a>
+<div>
+  <a href="www.linkedin.com/in/páblio-de-sousa-6387972a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-090014?style=for-the-badge&logo=linkedin&logoColor=A55CFF" target="_blank"></a>
+  <a href="mailto:pabliosousa1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-090014?style=for-the-badge&logo=gmail&logoColor=A55CFF" target="_blank"></a>
 </div>
 
 <br>
@@ -45,9 +41,9 @@
 
 ### 👨🏽‍💻 Linguagens e Ferramentas
 
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,html,css,git,github,vscode,postman&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
   </a>
 </div>
 
