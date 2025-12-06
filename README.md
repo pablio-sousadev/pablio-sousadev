@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+[Seu+Nome]!👋🏽;Desenvolvedor+Web+Full+Stack+👨🏽‍💻;Focado+em+JavaScript+e+Node.js+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Pablio!👋🏽;Desenvolvedor+Web+Full+Stack+👨🏽‍💻;Focado+em+JavaScript+e+Node.js+🚀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -53,9 +53,5 @@
 
 <br>
 <br>
-
-<div align="right">
-  <code>&lt;/&gt; Keep coding 💻🚀 &lt;/&gt;</code>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=footer"/>
