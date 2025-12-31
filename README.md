@@ -9,8 +9,6 @@
 <div>
   <br>
   
-  Please replace **Pablio** and **Systems Analysis and Development** with your information.
-  
   <ul>
     <li><em>🎓 Estudante de analise e desenvolvimento de sistemas (Focado em Desenvolvimento Web).</em></li>
     <li><em>🚀 Criando aplicações com <strong>Node.js, Express e JavaScript</strong>.</em></li>
@@ -30,27 +28,14 @@
 
 <br>
 
-### GitHub Stats
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablio-sousadev&theme=dark&hide_border=true&background=090014&stroke=A55CFF&ring=A55CFF&fire=A55CFF&currStreakLabel=A55CFF&sideNums=F4F4F6&sideLabels=F4F4F6&dates=F4F4F6" alt="pablio-sousadev streak" />
-</div>
-
-### Conquistas
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pablio-sousadev&theme=darkhub&no-frame=true&margin-w=15&row=1" />
-</div>
-
 ### Linguagens e Ferramentas
 <br>
-<div align="center">
+<div>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
   </a>
 </div>
 
-<br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a0df9&height=120&section=footer"/>
