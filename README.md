@@ -13,7 +13,6 @@
     <li><em>🎓 Estudante de analise e desenvolvimento de sistemas (Focado em Desenvolvimento Web).</em></li>
     <li><em>🚀 Criando aplicações com <strong>Node.js, Express e JavaScript</strong>.</em></li>
     <li><em>📊 Experiência recente com consumo de APIs (Fetch) e Dashboards.</em></li>
-    <li><em>🌱 Atualmente desenvolvendo soluções para gestão de condomínios.</em></li>
   </ul>
 </div>
 
@@ -32,7 +31,7 @@
 <br>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,java,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
   </a>
 </div>
 
