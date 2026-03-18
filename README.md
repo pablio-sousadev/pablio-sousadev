@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Pablio!👋🏽;Desenvolvedor+Web+Full+Stack+👨🏽‍💻;Focado+em+JavaScript+e+Node.js+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=A55CFF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Pablio!👋🏽;Desenvolvedor+BackEnd+👨🏽‍💻" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,9 +10,8 @@
   <br>
   
   <ul>
-    <li><em>🎓 Estudante de analise e desenvolvimento de sistemas (Focado em Desenvolvimento Web).</em></li>
-    <li><em>🚀 Criando aplicações com <strong>Node.js, Express e JavaScript</strong>.</em></li>
-    <li><em>📊 Experiência recente com consumo de APIs (Fetch) e Dashboards.</em></li>
+    <li><em>🎓 Estudante de analise e desenvolvimento de sistemas.</em></li>
+    <li><em>🚀 Estagiario de TI no Ministerio de Gestao e Inovacao em Serviços Publicos</em></li>
   </ul>
 </div>
 
@@ -31,7 +30,7 @@
 <br>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,java,express,html,css,git,github,vscode,postgres,mysql&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,java,express,git,github,vscode,postgres&theme=dark&perline=5" />
   </a>
 </div>
 
