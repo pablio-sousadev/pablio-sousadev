@@ -26,17 +26,11 @@
 <br>
 
 <p align="center">
-  <a href="https://pablio-sousadev.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-pablio--sousadev.github.io-99001f?style=flat-square&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/páblio-de-sousa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Páblio_de_Sousa-99001f?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:pabliosousa1990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pabliosousa1990@gmail.com-99001f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://pablio-sousadev.github.io/portfolio/" target="_blank"><img src="./assets/badge-portfolio.svg" height="34" alt="Portfólio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/páblio-de-sousa" target="_blank"><img src="./assets/badge-linkedin.svg" height="34" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:pabliosousa1990@gmail.com"><img src="./assets/badge-email.svg" height="34" alt="Email" /></a>
 </p>
 
 </div>

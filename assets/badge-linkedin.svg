@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="34" viewBox="0 0 130 34" fill="none">
+  <defs>
+    <linearGradient id="bg_linkedin" x1="0" y1="0" x2="130" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1e0a0f"/>
+      <stop offset="100%" stop-color="#110406"/>
+    </linearGradient>
+    <linearGradient id="border_linkedin" x1="0" y1="0" x2="0" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ff2a4b" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#521622" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Card -->
+  <rect x="0.5" y="0.5" width="129" height="33" rx="8" fill="url(#bg_linkedin)" stroke="url(#border_linkedin)" stroke-width="1"/>
+  <!-- Top glow subtle line -->
+  <line x1="8" y1="1" x2="122" y2="1" stroke="#ff2a4b" stroke-opacity="0.35" stroke-linecap="round"/>
+  <!-- Icon -->
+  <g transform="translate(13, 9.0)">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="#38bdf8">
+      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+    </svg>
+  </g>
+  <!-- Text Label -->
+  <text x="37" y="21.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" font-weight="600" fill="#fff0f2" letter-spacing="0.3px">LinkedIn</text>
+  <!-- Arrow Indicator ↗ -->
+  <path d="M112 19.0 L117 14.0 M117 14.0 L113 14.0 M117 14.0 L117 18.0" fill="none" stroke="#b3707c" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
